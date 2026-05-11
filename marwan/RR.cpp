@@ -101,6 +101,8 @@ public:
     }
 };
 
+// this function (printGanttChart) was implemented using AI enhanced tools for learning purposes.
+// It is only used for displaying the Gantt chart output and does not perform any scheduling calculations or computations.
 void printGanttChart(const vector<pair<string, pair<int, int>>>& segments)
 {
     cout << "\nGantt Chart:\n";
